@@ -1,0 +1,29 @@
+.logo{
+	background-image: url(../img/cerebrin.png);
+	background-position: center;
+	background-size: cover;
+	width: 160px;
+	height: auto;
+	margin-top: 10px;
+}
+
+.imglogin{
+	height: auto;
+	width: 400px;
+}
+
+.margboton{
+	margin: 15px 25px;
+}
+
+.margform{
+	margin: 0 25%;
+}
+
+.margtabla h1{
+	padding-top: 50px;
+}
+
+main{
+	padding: 100px;
+}
